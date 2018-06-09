@@ -30,7 +30,7 @@ function game() {
                     zombie -= yRandNum;
 
                     console.log(
-                        `\nLanded a hit! You just smacked the life outta the zombie for ${yRandNum} hit(s)! \nYour health: ${you} \nZombie health: ${zombie} \n`
+                        `\nGOT'EM! You just smacked the life outta the zombie for ${yRandNum} hit(s). \nYour health: ${you} \nZombie health: ${zombie} \n`
                     );
                     results();
                 } else {
