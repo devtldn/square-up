@@ -1,0 +1,23 @@
+{
+  "name": "square-up",
+  "version": "1.0.0",
+  "description": "Fight a brain-dead zombie or get eaten, loser.",
+  "main": "zombiegame.js",
+  "dependencies": {
+    "inquirer": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devtldn/square-up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devtldn/square-up/issues"
+  },
+  "homepage": "https://github.com/devtldn/square-up#readme"
+}
